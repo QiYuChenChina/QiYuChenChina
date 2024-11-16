@@ -1,0 +1,5 @@
+-Hi!I'm YuChen Qi!
+-I'm from China'Henan'Zhoukou'Xiangcheng.
+-I'm a student.
+-I likes Python and hackintosh.
+-Mmm.I don't know how to write Python code...
